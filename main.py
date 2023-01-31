@@ -7,4 +7,8 @@ uri = '/tous-les-parkings'
 response = requests.get(baseUrl + uri)
 
 if response.ok:
-    print(response.status_code)
+    soup = bs4.BeautifulSoup(response.text, 'html.parser')
+    div = soup.find('div', {"id" : "request-container"})
+    list = div.findAll('h5')
+    for name in list:
+        print(name.contents[0])
