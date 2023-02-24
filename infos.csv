@@ -1,0 +1,22 @@
+name,address,capacity,left,owner,link
+Parc Relais Gorge de Loup,"56 Rue du Sergent Michel Berthet, 69009 Lyon, France",680,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Oullins Sud,"Avenue Edmond Locard, 69600 Oullins, France",306,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Meyzieu Panettes,"190 Rue Antoine Becquerel, 69330 Meyzieu, France",590,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Vaulx en Velin La Soie,"3 Rue Maurice Moissonnier, 69120 Vaulx-en-Velin, France",471,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Mermoz,"Avenue Jean Mermoz, 69500 Bron, France",418,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Vaise 2,"51B Rue de St Cyr, 69009 Lyon, France",748,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Laurent Bonnevay,"409 Cours Emile Zola, 69100 Villeurbanne, France",647,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parking Bellecour,"32 Place Bellecour, 69002 Lyon, France",478,Pas de temps réel,INDIGO,https://fr.parkindigo.com/
+Parc Relais Parilly,"Avenue Jules Guesde, 69200 Vénissieux, France",310,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Cuire,"3-5 Rue de la Gare de Cuire, 69300 Caluire-et-Cuire, France",80,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Meyzieu ZI,"355 Avenue Henri Schneider, 69330 Meyzieu, France",473,0,TCL,https://www.tcl.fr/services/parcs-relais
+Lyon Eurexpo,"Boulevard de l'Europe, 69680 Chassieu, France",10000,Pas de temps réel,INDIGO,https://fr.parkindigo.com/
+Parc Relais Vaise 1,"51 Rue de St Cyr, 69009 Lyon, France",521,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parc Relais Vénissieux,"2 Rue des Combats du 24 Août 1944, 69200 Vénissieux, France",745,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parking Antonin Poncet,"11 Place Antonin Poncet, 69002 Lyon-2E-Arrondissement, France",709,306,LPA,https://www.lpa.fr/
+Parc Relais Porte des Alpes,"Cours du Professeur Jean Bernard, 69800 Saint-Priest, France",390,0,TCL,https://www.tcl.fr/services/parcs-relais
+Parking Cordeliers,"3 Rue Antoine Salles, 69002 Lyon-2E-Arrondissement, France",778,503,LPA,https://www.lpa.fr/
+Parc Relais Feyssine,"1 Rue de la Technologie, 69100 Villeurbanne, France",80,Pas de temps réel,TCL,https://www.tcl.fr/services/parcs-relais
+Gare de Givors Ville,"23 Rue Pierre Semard, 69700 Givors, France",188,Pas de temps réel,SNCF,https://portfolio.motysten.fr
+Parc Relais Décines Grand Large,"26 Rue Francisco Ferrer, 69150 Décines-Charpieu, France",57,0,TCL,https://www.tcl.fr/services/parcs-relais
+CC Carré de Soie VAULX-EN-VELIN,"8 Avenue de Bohlen, 69120 Vaulx-en-Velin, France",1800,0,PRIVE,https://portfolio.motysten.fr
